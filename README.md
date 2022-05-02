@@ -45,13 +45,10 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <em>
-    Hello, I am Altmash Siddique a <b>third year</b> undergraduate from <a href="https://www.mctrgit.ac.in/"> <b>Rajiv Gandhi Institute of Technology</b>, Mumbai University</a>. <br>
-    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px"> and a <b>Full Stack Web Developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>learning New Technologies</b> and always looking to find solution and better approach to a problem statement. 
+  <em> 
+    I am a <b>detailed-oriented</b>, <b>responsible</b>, have quality of <b>leadership</b> and committed computer engineer undergraduate at <a href="https://www.mctrgit.ac.in/"> <b>Rajiv Gandhi Institute of Technology</b>, Mumbai University</a>. I am interested in <b>full stack development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">, Al and <b>software development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="36px">.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "If It Is To Be, It Is Up To Me...”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
