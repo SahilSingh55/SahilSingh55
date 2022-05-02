@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am a Software Developer</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="font-color: red">
-<a href="https://twitter.com/sahil_g_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahil_g_singh" height="30" width="40" /></a>
+<a href="https://twitter.com/sahil_g_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/sahil_g_singh" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sahil-singh-4ab4761bb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sahil-singh-4ab4761bb" height="30" width="40" /></a>
 <a href="https://www.facebook.com/SahilGSingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/SahilGSingh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sahilsingh4430" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sahilsingh4430" height="30" width="40" /></a>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <em> 
-    I am a <b>detailed-oriented</b>, <b>responsible</b>, have quality of <b>leadership</b> and committed computer engineer undergraduate at <a href="https://www.mctrgit.ac.in/"> <b>Rajiv Gandhi Institute of Technology</b>, Mumbai University</a>. I am interested in <b>full stack development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">, Al and <b>software development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="36px">.
+    I am a <b>detailed-oriented</b>, <b>responsible</b>, have quality of <b>leadership</b> and committed computer engineer undergraduate at <a href="https://www.mctrgit.ac.in/"> <b>Rajiv Gandhi Institute of Technology</b>, Mumbai University</a>. I am interested in <b>full stack development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">, <b>Al</b> and <b>software development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="36px">.
   </em> 
   <br>
 </p>
