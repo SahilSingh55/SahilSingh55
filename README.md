@@ -31,14 +31,12 @@ Here are some ideas to get you started:
 <h3 align="center">I am a Software Developer</h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="font-color: red">
-<a href="https://twitter.com/_devanshtrivedi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_devanshtrivedi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-trivedi-a937851b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devansh-trivedi-a937851b0/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/devansh.trivedi.100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/devansh.trivedi.100/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__devanshtrivedi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/__devanshtrivedi/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/devtri_2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/devtri_2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/tridevansh_16061" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/tridevansh_16061" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/devansh-trivedi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/devansh-trivedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/devansh-trivedi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/devansh-trivedi/" height="30" width="40" /></a>
+<a href="https://twitter.com/sahil_g_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sahil_g_singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-singh-4ab4761bb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sahil-singh-4ab4761bb" height="30" width="40" /></a>
+<a href="https://www.facebook.com/SahilGSingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/SahilGSingh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sahilsingh4430" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/sahilsingh4430" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sahilsingh55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sahilsingh55" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Sahil_G_Singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/Sahil_G_Singh" height="30" width="40" /></a>
 </p>
 </p>
 
