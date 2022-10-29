@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <em> 
-    I am a <b>detailed-oriented</b>, <b>responsible</b>, have quality of <b>leadership</b> and committed computer engineer undergraduate at <a href="https://www.mctrgit.ac.in/"> <b>Rajiv Gandhi Institute of Technology</b>, Mumbai University</a>. I am interested in <b>full stack development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">, <b>Al</b> and <b>software development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="36px">.
+    I am a <b>detailed-oriented</b>, <b>responsible</b>, <b>leader</b> and <b>committed</b> computer engineer undergraduate at <a href="https://www.mctrgit.ac.in/"> <b>Rajiv Gandhi Institute of Technology</b>, Mumbai University</a>. I have an interest in <b>full stack development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">, <b>AI</b> and <b>software development</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif?raw=true" width="36px">.
   </em> 
   <br>
 </p>
